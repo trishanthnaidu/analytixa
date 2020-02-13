@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/analytixa/static/css/main.eb5df336.chunk.css",
+    "main.js": "/analytixa/static/js/main.a7d6e573.chunk.js",
+    "main.js.map": "/analytixa/static/js/main.a7d6e573.chunk.js.map",
+    "runtime-main.js": "/analytixa/static/js/runtime-main.68e75b1b.js",
+    "runtime-main.js.map": "/analytixa/static/js/runtime-main.68e75b1b.js.map",
+    "static/js/2.01c84c9c.chunk.js": "/analytixa/static/js/2.01c84c9c.chunk.js",
+    "static/js/2.01c84c9c.chunk.js.map": "/analytixa/static/js/2.01c84c9c.chunk.js.map",
+    "index.html": "/analytixa/index.html",
+    "precache-manifest.e8aba9eca372c0e1cbfa2cd4fc2fece8.js": "/analytixa/precache-manifest.e8aba9eca372c0e1cbfa2cd4fc2fece8.js",
+    "service-worker.js": "/analytixa/service-worker.js",
+    "static/css/main.eb5df336.chunk.css.map": "/analytixa/static/css/main.eb5df336.chunk.css.map",
+    "static/js/2.01c84c9c.chunk.js.LICENSE.txt": "/analytixa/static/js/2.01c84c9c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/analytixa/static/media/logo.0a5a4100.svg",
+    "static/media/somethingWentWrongDark.svg": "/analytixa/static/media/somethingWentWrongDark.485713aa.svg",
+    "static/media/somethingWentWrongLight.svg": "/analytixa/static/media/somethingWentWrongLight.29bd231b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68e75b1b.js",
+    "static/js/2.01c84c9c.chunk.js",
+    "static/css/main.eb5df336.chunk.css",
+    "static/js/main.a7d6e573.chunk.js"
+  ]
+}
