@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5b4465dc4944f46fa04c3c515683c9c",
+    "revision": "3ff469c4b613df09ca1a23857032cd25",
     "url": "/analytixa/index.html"
   },
   {
-    "revision": "5bb853add5be4b139a28",
+    "revision": "c21c155a2f0dbe26e5ab",
     "url": "/analytixa/static/css/main.eb5df336.chunk.css"
   },
   {
-    "revision": "02abba7fa84b8971fc2b",
-    "url": "/analytixa/static/js/2.a80f75ec.chunk.js"
+    "revision": "9087364b9d5c70713f18",
+    "url": "/analytixa/static/js/2.b8adff7d.chunk.js"
   },
   {
     "revision": "6f5f1c4a5f7f6e382b8aeca1b4ac8d96",
-    "url": "/analytixa/static/js/2.a80f75ec.chunk.js.LICENSE.txt"
+    "url": "/analytixa/static/js/2.b8adff7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bb853add5be4b139a28",
-    "url": "/analytixa/static/js/main.5c1e28a8.chunk.js"
+    "revision": "c21c155a2f0dbe26e5ab",
+    "url": "/analytixa/static/js/main.43f63c3a.chunk.js"
   },
   {
     "revision": "77facb3ade82c1bda4cc",
